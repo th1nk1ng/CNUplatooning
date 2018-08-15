@@ -1,3 +1,7 @@
+/* Useing OpenCV ZeroMQ 
+ * Color Detection
+ * Checking the Road Sign
+*/
 #include "zhelpers.h"
 #include "Altino.h"
 #include <unistd.h>
